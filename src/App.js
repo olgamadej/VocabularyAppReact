@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import Words from "./components/Words";
 import axios from "axios";
 import "./App.css";
 
@@ -12,9 +13,11 @@ const App = () => {
     const fetchWords = async () => {
       setLoading(true);
       const res = await axios.get(
-        "https://olgamadej.github.io/JSONs/french.json"
+        "https://olgamadej.github.io/JSONs/french_moving_around.json"
       );
-      setWords(res.data);
+      var data = res.data;
+
+      setWords([data]);
       setLoading(false);
     };
 
@@ -25,7 +28,8 @@ const App = () => {
 
   return (
     <div className="container">
-      <h1>The App</h1>
+      <h1 className="main-text my-3">Enjoy the Vocabulary</h1>
+      <Words words={words} loading={loading} />
     </div>
   );
 };
