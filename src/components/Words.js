@@ -2,11 +2,11 @@ import React from "react";
 
 const Words = ({ words, loading }) => {
   if (loading) {
-    return;
+    return <h3>Loading...</h3>;
   }
 
   return (
-    <ul className="list mb-4">
+    <ul>
       {words.map((word, index) => (
         <li key={index} className="list-item">
           {word.expression}
