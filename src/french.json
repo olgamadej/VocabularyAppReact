@@ -1,0 +1,212 @@
+{
+  "moving around & travel": [
+    {
+      "word": "Pardon, …",
+      "no": 1
+    },
+    {
+      "word": "Excuse me…",
+      "no": 1
+    },
+    {
+      "word": "Où est ...?",
+      "no": 2
+    },
+    {
+      "word": "la poste",
+      "no": 3
+    },
+    {
+      "word": "la banque",
+      "no": 4
+    },
+    {
+      "word": "the bank",
+      "no": 4
+    },
+    {
+      "word": "le salon de coiffure",
+      "no": 5
+    },
+    {
+      "word": "hair salon",
+      "no": 5
+    },
+    {
+      "word": "l’office de tourisme",
+      "no": 6
+    },
+    {
+      "word": "the tourism office",
+      "no": 6
+    },
+    {
+      "word": "le centre-ville ",
+      "no": 7
+    },
+    {
+      "word": "downtown, the city center",
+      "no": 7
+    },
+    {
+      "word": "la gare",
+      "no": 8
+    },
+    {
+      "word": "the station",
+      "no": 8
+    },
+    {
+      "word": "la gare routière",
+      "no": 9
+    },
+    {
+      "word": "the bus station",
+      "no": 9
+    },
+    {
+      "word": "le port",
+      "no": 10
+    },
+    {
+      "word": "the harbor",
+      "no": 10
+    },
+    {
+      "word": "l'hôpital le plus proche",
+      "no": 11
+    },
+    {
+      "word": "the nearest hospital",
+      "no": 11
+    },
+    {
+      "word": "le commissariat de police",
+      "no": 12
+    },
+    {
+      "word": "the police station",
+      "no": 12
+    },
+    {
+      "word": "l’arrêt de bus",
+      "no": 13
+    },
+    {
+      "word": "the bus stop",
+      "no": 13
+    },
+    {
+      "word": "le métro",
+      "no": 14
+    },
+    {
+      "word": "the tube, the underground",
+      "no": 14
+    },
+    {
+      "word": "l’hôpital",
+      "no": 15
+    },
+    {
+      "word": "the hospital",
+      "no": 15
+    },
+    {
+      "word": "la bibliothèque municipale",
+      "no": 16
+    },
+    {
+      "word": "The municipal library",
+      "no": 16
+    },
+    {
+      "word": "le bureau de poste",
+      "no": 17
+    },
+    {
+      "word": "the post office",
+      "no": 17
+    },
+    {
+      "word": "la pelouse interdite",
+      "no": 18
+    },
+    {
+      "word": "the prohibited lawn",
+      "no": 18
+    },
+    {
+      "word": "la sortie",
+      "no": 19
+    },
+    {
+      "word": "the exit",
+      "no": 19
+    },
+    {
+      "word": "l’entrée",
+      "no": 20
+    },
+    {
+      "word": "the entrance",
+      "no": 20
+    },
+    {
+      "word": "Où sont les toilettes?",
+      "no": 21
+    },
+    {
+      "word": "Where is the restroom",
+      "no": 21
+    },
+    {
+      "word": "Où est l’arrêt d’autobus?",
+      "no": 22
+    },
+    {
+      "word": "Where is the bus stop?",
+      "no": 22
+    },
+    {
+      "word": "Quel est le prochain arrêt?",
+      "no": 23
+    },
+    {
+      "word": "What is the next stop?",
+      "no": 23
+    },
+    {
+      "word": "Est-ce mon arrêt?",
+      "no": 24
+    },
+    {
+      "word": "Is this my bus stop?",
+      "no": 24
+    },
+    {
+      "word": "Excusez-moi, je descends ici",
+      "no": 25
+    },
+    {
+      "word": "Excuse me, I have to get off here.",
+      "no": 25
+    },
+    {
+      "word": "Où est le musée?",
+      "no": 26
+    },
+    {
+      "word": "Where is the museum",
+      "no": 26
+    },
+    {
+      "word": "Est-ce que l’entrée est payante?",
+      "no": 27
+    },
+    {
+      "word": "Is there an entrance fee?",
+      "no": 27
+    }
+  ]
+}
