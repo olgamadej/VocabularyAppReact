@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VocabularyAppReact/static/css/main.99b84102.css",
+    "main.js": "/VocabularyAppReact/static/js/main.adf8eaab.js",
+    "index.html": "/VocabularyAppReact/index.html",
+    "main.99b84102.css.map": "/VocabularyAppReact/static/css/main.99b84102.css.map",
+    "main.adf8eaab.js.map": "/VocabularyAppReact/static/js/main.adf8eaab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99b84102.css",
+    "static/js/main.adf8eaab.js"
+  ]
+}
